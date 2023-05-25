@@ -15,7 +15,10 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
-    "solid-js": "^1.6.10",
-    "solid-bootstrap": "^1.0.13"
+    "@solid-primitives/event-listener": "^2.2.13",
+    "@solid-primitives/utils": "^6.2.0",
+    "clsx": "^1.2.1",
+    "solid-bootstrap": "^1.0.13",
+    "solid-js": "^1.6.10"
   }
 }
